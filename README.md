@@ -9,7 +9,7 @@ This can be used as a landing page, digital business card, quick bio, whatever!
 1. Inscribe a photo of yourself (or find a photo you want to use) and make note of its Inscription ID
 2. Edit template.html and modify with your own information.
 3. Use a minify service such as https://www.willpeavy.com/tools/minifier/ to remove all the comments and extra white space. This will result in the smallest file size possible!
-3. Inscribe template.html using an inscription service such as https://ordinalsbot.com/
+3. Inscribe template.html using an inscription service such as OrdinalsBot. Use my ref code if you like: https://ordinalsbot.com?ref=brandonmarshall
 
 
 ## Some additional notes for how I made this:
